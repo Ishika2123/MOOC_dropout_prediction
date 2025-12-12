@@ -1,4 +1,4 @@
-# Machine Learning Project - Dropout Prediction in MOOCs
+# Dropout Prediction in MOOCs
 
 ## Project Overview
 This project focuses on predicting student dropouts in Massive Open Online Courses (MOOCs) by measuring a variety of different demographic, engagement, and academic performance features. Manage and predict using various machine learning algorithms whether a student will drop or pass a course, what key factors lead to dropouts, and measure the performance of various machine learning models in order to choose the best one.
