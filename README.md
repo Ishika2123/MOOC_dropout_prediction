@@ -34,6 +34,11 @@ The following algorithms were trained and evaluated.
 ## Model Evaluation
 * Metrics Used: Accuracy, Precision, Recall, F1-Score and ROC curve.
 
+## Run Steps
+```
+jupyter notebook ML_Project.ipynb
+```
+
 ## Conclusion
 
 From the perspective of dropout prediction, the project exemplifies how machine learning, feature engineering and algorithm selection are important. The results shows that approaches like class imbalance and engagement with the courses improves the accuracy and XGBoost proved to be the most effective model.
